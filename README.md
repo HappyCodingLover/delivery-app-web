@@ -3,8 +3,8 @@
 Food delivery app built with React
 
 ## Connected Projects
-- Mobile: https://github.com/moiseshilario/delivery-app-mobile
-- Back: https://github.com/moiseshilario/delivery-app-back
+- Mobile: https://github.com/HappyCodingLover/delivery-app-mobile
+- Back: https://github.com/HappyCodingLover/delivery-app-back
 
 ## Setup
 
